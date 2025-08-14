@@ -1,0 +1,59 @@
+baseURL = "https://example.org/"
+languageCode = "en-us"
+title = "World Wide Erorn"
+theme = "PaperMod"
+GoogleAnalytics = "" 
+
+# Main site params
+[params]
+  author = "erorn"
+  license = "BSD-3-Clause"
+  licenseLink = "https://opensource.org/license/bsd-3-clause"
+  sourceURL = "https://github.com/erorndev/www"
+  showWordCounter = true
+  showLicenseInFooter = true
+  showLicense = true
+  showToc = true
+  disableDarkImage = true
+  showReadingTime = true
+  showCodeCopyButtons = true
+  mainSections = ["posts"]
+
+# Pagination settings
+[pagination]
+  disableAliases = false
+  pagerSize = 5
+
+# Markup settings
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+  [markup.highlight]
+    noClasses = false
+
+# Languages config
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+    title = "World Wide Erorn"
+    taxonomies = { category = "categories", tag = "tags", series = "series" }
+    mainSections = ["posts"]
+
+# Enable robots.txt
+enableRobotsTXT = true
+
+# Enable emoji support
+enableEmoji = true
+
+# Minify options
+[minify]
+  disableXML = true
+
+[params.homeInfoParams]
+Title = "erorn"
+Content = """
+👋 Hello, I'm erorn. I am a **self-taught developer**. I am an advocate of **privacy-conscious development**, and I try to implement best practices for **secure coding** in all my projects.
+"""
