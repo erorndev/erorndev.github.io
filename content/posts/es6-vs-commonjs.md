@@ -42,7 +42,7 @@ At first glance, they do the exact same thing — they let you split your code i
 
 #### Syntax
 CommonJS uses `require()` and `module.exports`, while ES6 uses `import` and `export` keywords.  
-At first glance, it seems like just a different way to write the same thing, right? WRONG.  
+At first glance, it seems like just a different way to write the same thing, right? **WRONG**.  
 There’s more going on under the hood than just `require()` vs `import`. The way these modules load and handle exports is entirely different.
 
 #### Loading differences
@@ -110,7 +110,7 @@ const { add } = require('./math.mjs');
 import math from './math.cjs';
 ```
 
-Node.js has improved support for this, but it’s quite tricky. It’s best to pick one style per project if possible.
+Node.js has improved support for this, though i wouldnt recommend. It’s best to pick one style per project if possible.
 
 #### Choosing between ES6 and CommonJS
 Which one should you use? Well, it depends:
