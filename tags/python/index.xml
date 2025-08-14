@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on World Wide Erorn</title>
+    <link>https://example.org/tags/python/</link>
+    <description>Recent content in Python on World Wide Erorn</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Aug 2025 17:41:17 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why is Python Slow As Balls?</title>
+      <link>https://example.org/posts/why-is-python-slow-as-balls/</link>
+      <pubDate>Wed, 13 Aug 2025 17:41:17 +0000</pubDate>
+      <guid>https://example.org/posts/why-is-python-slow-as-balls/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png&#34; alt=&#34;Python Logo&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;We all know Python, It&amp;rsquo;s one of the simplest and most powerful programming languages in the world.&#xA;Its used in fields like AI (TensorFlow, PyTorch) and Data Science (Pandas, NumPy). Its simplicity&#xA;and readability have made it a favorite for me. However, there is something thats important, &lt;strong&gt;Its slow&lt;/strong&gt;.&#xA;But why is it slow? This language has such perfect syntax, but, like everything in life, it comes with downsides.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
