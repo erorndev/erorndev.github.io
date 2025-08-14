@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on World Wide Erorn</title>
-    <link>https://example.org/tags/</link>
+    <link>https://erorndev.github.io/www/tags/</link>
     <description>Recent content in Tags on World Wide Erorn</description>
     <generator>Hugo -- 0.148.2</generator>
     <language>en</language>
     <lastBuildDate>Wed, 13 Aug 2025 17:41:17 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://erorndev.github.io/www/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Analog</title>
-      <link>https://example.org/tags/analog/</link>
+      <link>https://erorndev.github.io/www/tags/analog/</link>
       <pubDate>Wed, 13 Aug 2025 17:41:17 +0000</pubDate>
-      <guid>https://example.org/tags/analog/</guid>
+      <guid>https://erorndev.github.io/www/tags/analog/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>https://example.org/tags/python/</link>
+      <link>https://erorndev.github.io/www/tags/python/</link>
       <pubDate>Wed, 13 Aug 2025 17:41:17 +0000</pubDate>
-      <guid>https://example.org/tags/python/</guid>
+      <guid>https://erorndev.github.io/www/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Television</title>
-      <link>https://example.org/tags/television/</link>
+      <link>https://erorndev.github.io/www/tags/television/</link>
       <pubDate>Wed, 13 Aug 2025 17:41:17 +0000</pubDate>
-      <guid>https://example.org/tags/television/</guid>
+      <guid>https://erorndev.github.io/www/tags/television/</guid>
       <description></description>
     </item>
   </channel>
