@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>World Wide Erorn</title>
     <link>https://example.org/</link>
     <description>Recent content on World Wide Erorn</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.148.2</generator>
     <language>en</language>
     <lastBuildDate>Wed, 13 Aug 2025 17:41:17 +0000</lastBuildDate>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
@@ -13,21 +13,80 @@
       <link>https://example.org/posts/why-is-python-slow-as-balls/</link>
       <pubDate>Wed, 13 Aug 2025 17:41:17 +0000</pubDate>
       <guid>https://example.org/posts/why-is-python-slow-as-balls/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png&#34; alt=&#34;Python Logo&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;We all know Python, It&amp;rsquo;s one of the simplest and most powerful programming languages in the world.&#xA;Its used in fields like AI (TensorFlow, PyTorch) and Data Science (Pandas, NumPy). Its simplicity&#xA;and readability have made it a favorite for me. However, there is something thats important, &lt;strong&gt;Its slow&lt;/strong&gt;.&#xA;But why is it slow? This language has such perfect syntax, but, like everything in life, it comes with downsides.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img alt=&#34;Python Logo&#34; loading=&#34;lazy&#34; src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+&lt;p&gt;We all know Python, It&amp;rsquo;s one of the simplest and most powerful programming languages in the world.
+Its used in fields like AI (TensorFlow, PyTorch) and Data Science (Pandas, NumPy). Its simplicity
+and readability have made it a favorite for me. However, there is something thats important, &lt;strong&gt;Its slow&lt;/strong&gt;.
+But why is it slow? This language has such perfect syntax, but, like everything in life, it comes with downsides.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Analog TV Hijacking</title>
       <link>https://example.org/posts/analog-tv-hijacking/</link>
       <pubDate>Wed, 13 Aug 2025 17:41:17 +0000</pubDate>
       <guid>https://example.org/posts/analog-tv-hijacking/</guid>
-      <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Imagine sitting down to watch your favorite show, only for the screen to suddenly&#xA;be taken over by a image, or different kind of stuff really. This happened more&#xA;often than you might think during the era of analog television, thanks to TV hijacking.&lt;/p&gt;&#xA;&lt;h3 id=&#34;what-is-analog-tv&#34;&gt;What is Analog TV?&lt;/h3&gt;&#xA;&lt;p&gt;Analog TV broadcasting uses radio frequency signals (duh) to transmit television content.&#xA;These signals were transmitted over airwaves from a broadcast tower to household&#xA;antennas or cable systems, usually in a VHF/UHF spectrum. The broadcast signal itself&#xA;was relatively easy to intercept or alter compared to today&amp;rsquo;s encrypted digital systems.&#xA;The use of analog signals meant that, theoretically, anyone with the right equipment could&#xA;capture and modify these transmissions.&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+&lt;p&gt;Imagine sitting down to watch your favorite show, only for the screen to suddenly
+be taken over by a image, or different kind of stuff really. This happened more
+often than you might think during the era of analog television, thanks to TV hijacking.&lt;/p&gt;
+&lt;h3 id=&#34;what-is-analog-tv&#34;&gt;What is Analog TV?&lt;/h3&gt;
+&lt;p&gt;Analog TV broadcasting uses radio frequency signals (duh) to transmit television content.
+These signals were transmitted over airwaves from a broadcast tower to household
+antennas or cable systems, usually in a VHF/UHF spectrum. The broadcast signal itself
+was relatively easy to intercept or alter compared to today&amp;rsquo;s encrypted digital systems.
+The use of analog signals meant that, theoretically, anyone with the right equipment could
+capture and modify these transmissions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
       <link>https://example.org/about/</link>
       <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://example.org/about/</guid>
-      <description>&lt;p&gt;Hello, I&amp;rsquo;m erorn. I am a &lt;strong&gt;self-taught developer&lt;/strong&gt;. I am an advocate of &lt;strong&gt;privacy-conscious development&lt;/strong&gt;, and I try to implement best practices for &lt;strong&gt;secure coding&lt;/strong&gt; in all my projects.&lt;/p&gt;&#xA;&lt;h2 id=&#34;pgp-key&#34;&gt;PGP Key&lt;/h2&gt;&#xA;&lt;p&gt;If you&amp;rsquo;d like to send me encrypted emails or chat securely, feel free to use my PGP public key below.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;-----BEGIN PGP PUBLIC KEY BLOCK-----&#xA;&#xA;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&#xA;fya4g00/ZJ2eAvUIb2ZgL+Yn&#xA;=EJuC&#xA;-----END PGP PUBLIC KEY BLOCK-----&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+      <description>&lt;p&gt;Hello, I&amp;rsquo;m erorn. I am a &lt;strong&gt;self-taught developer&lt;/strong&gt;. I am an advocate of &lt;strong&gt;privacy-conscious development&lt;/strong&gt;, and I try to implement best practices for &lt;strong&gt;secure coding&lt;/strong&gt; in all my projects.&lt;/p&gt;
+&lt;h2 id=&#34;pgp-key&#34;&gt;PGP Key&lt;/h2&gt;
+&lt;p&gt;If you&amp;rsquo;d like to send me encrypted emails or chat securely, feel free to use my PGP public key below.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+fya4g00/ZJ2eAvUIb2ZgL+Yn
+=EJuC
+-----END PGP PUBLIC KEY BLOCK-----
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
   </channel>
 </rss>

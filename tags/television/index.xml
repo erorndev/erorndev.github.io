@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Television on World Wide Erorn</title>
     <link>https://example.org/tags/television/</link>
     <description>Recent content in Television on World Wide Erorn</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.148.2</generator>
     <language>en</language>
     <lastBuildDate>Wed, 13 Aug 2025 17:41:17 +0000</lastBuildDate>
     <atom:link href="https://example.org/tags/television/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,17 @@
       <link>https://example.org/posts/analog-tv-hijacking/</link>
       <pubDate>Wed, 13 Aug 2025 17:41:17 +0000</pubDate>
       <guid>https://example.org/posts/analog-tv-hijacking/</guid>
-      <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Imagine sitting down to watch your favorite show, only for the screen to suddenly&#xA;be taken over by a image, or different kind of stuff really. This happened more&#xA;often than you might think during the era of analog television, thanks to TV hijacking.&lt;/p&gt;&#xA;&lt;h3 id=&#34;what-is-analog-tv&#34;&gt;What is Analog TV?&lt;/h3&gt;&#xA;&lt;p&gt;Analog TV broadcasting uses radio frequency signals (duh) to transmit television content.&#xA;These signals were transmitted over airwaves from a broadcast tower to household&#xA;antennas or cable systems, usually in a VHF/UHF spectrum. The broadcast signal itself&#xA;was relatively easy to intercept or alter compared to today&amp;rsquo;s encrypted digital systems.&#xA;The use of analog signals meant that, theoretically, anyone with the right equipment could&#xA;capture and modify these transmissions.&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+&lt;p&gt;Imagine sitting down to watch your favorite show, only for the screen to suddenly
+be taken over by a image, or different kind of stuff really. This happened more
+often than you might think during the era of analog television, thanks to TV hijacking.&lt;/p&gt;
+&lt;h3 id=&#34;what-is-analog-tv&#34;&gt;What is Analog TV?&lt;/h3&gt;
+&lt;p&gt;Analog TV broadcasting uses radio frequency signals (duh) to transmit television content.
+These signals were transmitted over airwaves from a broadcast tower to household
+antennas or cable systems, usually in a VHF/UHF spectrum. The broadcast signal itself
+was relatively easy to intercept or alter compared to today&amp;rsquo;s encrypted digital systems.
+The use of analog signals meant that, theoretically, anyone with the right equipment could
+capture and modify these transmissions.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
