@@ -16,8 +16,8 @@
       <description>&lt;p&gt;&lt;img alt=&#34;Python Logo&#34; loading=&#34;lazy&#34; src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
 &lt;p&gt;We all know Python, It&amp;rsquo;s one of the simplest and most powerful programming languages in the world.
-Its used in fields like AI (TensorFlow, PyTorch) and Data Science (Pandas, NumPy). Its simplicity
-and readability have made it a favorite for me. However, there is something thats important, &lt;strong&gt;Its slow&lt;/strong&gt;.
+It’s used in fields like AI (TensorFlow, PyTorch) and Data Science (Pandas, NumPy). It’s simplicity
+and readability have made it a favorite for me. However, there is something thats important, &lt;strong&gt;It’s slow&lt;/strong&gt;.
 But why is it slow? This language has such perfect syntax, but, like everything in life, it comes with downsides.&lt;/p&gt;</description>
     </item>
   </channel>
